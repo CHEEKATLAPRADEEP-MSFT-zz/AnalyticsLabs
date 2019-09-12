@@ -1,6 +1,8 @@
 # AnalyticsLabs
 
 
+# Azure Storage 
+
 The following quickstart templates deploy this resource type.
 
 | Template                                                     | Deploy                                                       |
