@@ -8,7 +8,7 @@
         },
         "storageAccountName": {
             "type": "string",
-            "defaultValue": "krishnahdinsight"
+            "defaultValue": "krishna007hdinsight"
         },
         "accountType": {
             "type": "string",
