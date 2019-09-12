@@ -8,11 +8,11 @@
         },
         "storageAccountName": {
             "type": "string",
-            "defaultValue": "krishna007hdinsight"
+            "defaultValue": "cheprahdinsight"
         },
         "accountType": {
             "type": "string",
-            "defaultValue": "Standard_RAGRS"
+            "defaultValue": "Standard_LRS"
         },
         "kind": {
             "type": "string",
