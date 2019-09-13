@@ -1,8 +1,9 @@
 # AnalyticsLabs
 
+```css
 > [**!Important**]  
 > This lab contains hardcoded parameters for the quicker deployments, you can change the parameters according to your requirement. 
-
+```
 ## Azure Storage 
 
 The following quickstart templates deploy this resource type depends on your need.
