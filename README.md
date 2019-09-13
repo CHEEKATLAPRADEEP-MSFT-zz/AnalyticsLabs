@@ -1,6 +1,6 @@
 # AnalyticsLabs
 
-> [!NOTE]  
+> [**!Important**]  
 > This lab contains hardcoded parameters for the quicker deployments, you can change the parameters according to your requirement. 
 
 ## Azure Storage 
