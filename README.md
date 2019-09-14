@@ -21,4 +21,6 @@ The following quickstart templates deploy this resource type.
 
 | Template                                                     | Deploy                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|  **Create Azure HDInsight Cluster [Type: _Hadoop_ & Version: _HDI(4.0)_]** | <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCHEEKATLAPRADEEP-MSFT%2FAnalyticsLabs%2Fmaster%2FAzureHDInsightHadoop.json" target="_blank"> <img src="http://azuredeploy.net/deploybutton.png"/></a>|
+
 
